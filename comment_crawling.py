@@ -3,8 +3,6 @@ import csv
 from selenium import webdriver
 import time
 
-# default path to file to store date
-
 # default number of scraped pages
 num_page = 10
 
